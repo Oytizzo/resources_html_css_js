@@ -4,6 +4,9 @@
     font-family: JetBrainsMonoMedium;
 }
 
+/* Third way to custom fonts */
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@200;400;500;700&display=swap');
+
 .header {
     font-size: 1.5em;
     color: rgb(242, 242, 242);
@@ -11,6 +14,8 @@
     padding: 10px;
     /* second way to custom font */
     /* font-family: JetBrainsMonoMedium; */
+
+    /* 1st and third way to custom font */
     font-family: 'JetBrains Mono', monospace;
 }
 
