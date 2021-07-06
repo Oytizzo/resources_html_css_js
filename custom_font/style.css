@@ -1,11 +1,11 @@
 /* second way to custom font */
-@font-face {
+/* @font-face {
     src: url(./fonts/JetBrainsMono-Medium.ttf);
     font-family: JetBrainsMonoMedium;
-}
+} */
 
 /* Third way to custom fonts */
-@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@200;400;500;700&display=swap');
+/* @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@200;400;500;700&display=swap'); */
 
 .header {
     font-size: 1.5em;
